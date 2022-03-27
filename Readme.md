@@ -5,7 +5,7 @@ It is based on this kaggle dataset [https://www.kaggle.com/deepu1109/star-datase
 
 The project aims to analyze the dataset and then various machine learning approaches to realize a **stellar classifier**.
 
-To learn more about the project see the [presentation](Presentation.pdf) and the [report](Report.pdf).
+To learn more about the project see the [presentation](Presentation.pdf) and [report](Report.pdf).
 
 # Group
 
